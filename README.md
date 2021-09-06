@@ -26,4 +26,4 @@ The following dependencies and packages are required to be installed on the host
 
 ## Results
 Below is a chart plotting the results of the sklearn KNN prediction. Average accuracy is the average for each K value over all 5 runs.
-![KNN K vs Average Accuracy](https://photos.app.goo.gl/AF7haDdcczJN7jF8A)
+![KNN K vs Average Accuracy](https://drive.google.com/uc?export=view&id=1-6Ul9ms_knM-EFJF0-J9Z5yjGxxhZxoQ)
