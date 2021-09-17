@@ -10,6 +10,7 @@ from sklearn import metrics
 def readDataset(url):
     df = pd.read_csv(url, header=None)
     array = df.to_numpy()
+    print(repr(array))
     return array
 
 def splitDataset(dataset, split):
