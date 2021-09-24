@@ -29,4 +29,4 @@ The following dependencies and packages are required to be installed on the host
 4. Run the notebook by pressing 'Run'.
 
 ## Results
-We predicted that 4 was the best K value for the dataset. The accuracy was predicted to be 0.5. The confusion matrix below shows the details of where the model was correct and incorrect.
+We predicted that 4 was the best K value for the dataset. The accuracy was predicted to be 0.5. The confusion matrix below shows the details of where the model was correct and incorrect.![kmeansconfusion](https://user-images.githubusercontent.com/22064340/134613142-207730cf-ac40-4d59-bf97-38738271bcba.PNG)
