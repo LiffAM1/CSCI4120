@@ -29,7 +29,8 @@ The following dependencies and packages are required to be installed on the host
 
 ## Results
 We selected the 20 features with the highest importance to build our model against. See the below graph for the features we picked alongside their importance.
-![image](https://user-images.githubusercontent.com/22064340/139353353-4fadd943-0868-4b86-8d2e-6468c2908db5.png)
+
+![image](https://user-images.githubusercontent.com/22064340/139353475-f289e0ab-eab8-4c01-a34d-f3d426752ca4.png)
 
 For the hyperparameters, we got the following values using GridSearchCV to find the best combinations of values:
 {'bootstrap': True, 'max_depth': 4, 'min_samples_split': 2, 'n_estimators': 20}
